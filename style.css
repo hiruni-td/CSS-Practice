@@ -1,0 +1,38 @@
+.Card{
+    background-color:#002D62;
+    color: white;
+    padding: 20px;
+
+
+}
+.card-image{
+    padding: 10px;
+    margin: 20px;
+    border-radius: 30px;
+
+}
+
+*{
+    background-color: skyblue;
+
+
+}
+
+.card-topic{
+    color:#A6192E;
+}
+
+.card-paragraph{
+    border: 10px solid #008751;
+    padding: 30px;
+    color: black ;
+}
+
+.btn{
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+
+
+}
+
